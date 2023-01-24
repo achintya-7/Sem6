@@ -1,3 +1,5 @@
+// * LAB 2
+
 #include <stdio.h>
 
 void partitionTypeTriangle(int a, int b, int c) {

@@ -1,3 +1,5 @@
+// * LAB 1
+
 #include <stdio.h>
 #include <stdbool.h>
 
