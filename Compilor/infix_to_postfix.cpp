@@ -1,5 +1,7 @@
 
 #include <bits/stdc++.h>
+#include <cstdio>
+#include <cstring>
 using namespace std;
 
 int prec(char c)
@@ -67,7 +69,9 @@ void infixToPostfix(string s)
 
 int main()
 {
+	cout << "Achintya \nA2305220450 \n";
 	string exp = "a+b*(c^d-e)^(f+g*h)-i";
+	cout << exp << endl;
 
 	infixToPostfix(exp);
 	return 0;
